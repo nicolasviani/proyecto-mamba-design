@@ -1,0 +1,94 @@
+/* contactos */
+
+.contactos {
+    background-color: pink;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-content: center;
+    gap: 20px;
+}
+
+.whatsapp {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+
+.whatsapp img {
+    width: 100px;
+    height: 100px;
+    border-radius: 3px;
+
+}
+
+.whatsapp p {
+    font-size: 40px;
+    font-weight: 300;
+
+}
+
+.facebook {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.facebook img {
+    width: 100px;
+    height: 100px;
+    border-radius: 3px;
+}
+
+.facebook p {
+    font-size: 40px;
+    font-weight: 300;
+}
+
+.instagram {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.instagram img {
+    width: 100px;
+    height: 100px;
+    border-radius: 3px;
+}
+
+.instagram p {
+    font-size: 40px;
+    font-weight: 300;
+}
+
+.mail {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.mail img {
+    width: 100px;
+    height: 100px;
+    border-radius: 3px;
+}
+
+.mail p {
+    font-size: 40px;
+    font-weight: 300;
+}
